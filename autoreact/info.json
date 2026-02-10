@@ -1,0 +1,18 @@
+{
+  "author": [
+    "taeyoon_0526"
+  ],
+  "name": "AutoReact",
+  "short": "Automatically react to every new message in one configured channel.",
+  "description": "Red-DiscordBot용 큐 기반 자동 반응 Cog입니다. 길드별로 대상 채널 1개와 이모지 1개를 설정하면 해당 채널의 모든 새 메시지에 안정적으로 반응을 추가합니다.",
+  "install_msg": "AutoReact 설치가 완료되었습니다. `[p]autoreact setchannel` → `[p]autoreact setemoji` → `[p]autoreact enable` 순서로 설정하세요.",
+  "end_user_data_statement": "This cog stores per-guild configuration only and does not store end user personal data.",
+  "min_bot_version": "3.5.0",
+  "requirements": [],
+  "tags": [
+    "automation",
+    "reactions",
+    "moderation"
+  ],
+  "type": "COG"
+}
